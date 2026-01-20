@@ -1,7 +1,7 @@
 #![doc(html_playground_url = "https://play.rust-lang.org/")]
 //! # WTFM for [serde]
 //! 
-//! Although this is an empty crate without only doc-tests, `cargo doc`
+//! Although this is an empty crate without doc-tests only, `cargo doc`
 //! by default builds documentation for dependencies
 //!
 //! ```sh
@@ -31,7 +31,7 @@
 //! ```
 //! We can navigate to them via the sidebar menu.
 //!
-//! ## Get started
+//! ## It works!
 //! <https://serde.rs/#data-structures>
 //! ```
 //! #[derive(serde::Serialize, serde::Deserialize, Debug)]
@@ -48,3 +48,13 @@
 //! let deserialized: Point = serde_json::from_str(&serialized).unwrap();
 //! debug_assert_eq!(format!("{:?}", deserialized), "Point { x: 1, y: 2 }");
 //! ``` 
+//! ```sh
+//!    Doc-tests wtfm_serde
+//!
+//! running 1 test
+//! test src/lib.rs - (line 36) ... ok
+//!
+//! test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out; finished in 0.00s
+//!
+//! all doctests ran in 0.48s; merged doctests compilation took 0.25s
+//! ```

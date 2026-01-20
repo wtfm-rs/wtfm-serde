@@ -1,2 +1,2 @@
-createSrcSidebar('[["wtfm_vec",["",[],["lib.rs"]]]]');
-//{"start":19,"fragment_lengths":[31]}
+createSrcSidebar('[["serde",["",[["private",[],["de.rs","mod.rs","ser.rs"]]],["integer128.rs","lib.rs"]]],["serde_core",["",[["de",[],["ignored_any.rs","impls.rs","mod.rs","value.rs"]],["private",[],["content.rs","doc.rs","mod.rs","seed.rs","size_hint.rs","string.rs"]],["ser",[],["fmt.rs","impls.rs","impossible.rs","mod.rs"]]],["crate_root.rs","format.rs","lib.rs","macros.rs"]]],["wtfm_serde",["",[],["lib.rs"]]]]');
+//{"start":19,"fragment_lengths":[86,276,34]}

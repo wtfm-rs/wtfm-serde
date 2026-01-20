@@ -1,3 +1,3 @@
-# wtfm-vec
+# wtfm-serde
 
-[📒](https://wtfm-rs.github.io/wtfm-vec/doc/wtfm_vec)
+[📒](https://wtfm-rs.github.io/wtfm-serde/doc/wtfm_serde)

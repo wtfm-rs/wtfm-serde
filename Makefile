@@ -15,3 +15,7 @@ test:
 	cargo test 
 	cargo clean
 	
+
+install:
+	cargo add serde
+

@@ -17,5 +17,6 @@ test:
 	
 
 install:
-	cargo add serde
+	cargo add serde --features serde_derive
+	cargo add serde_json
 

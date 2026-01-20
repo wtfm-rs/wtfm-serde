@@ -1,2 +1,2 @@
-window.ALL_CRATES = ["serde","serde_core","wtfm_serde"];
-//{"start":21,"fragment_lengths":[7,13,13]}
+window.ALL_CRATES = ["itoa","memchr","proc_macro2","quote","serde","serde_core","serde_derive","serde_json","syn","unicode_ident","wtfm_serde","zmij"];
+//{"start":21,"fragment_lengths":[6,9,14,8,8,13,15,13,6,16,13,7]}

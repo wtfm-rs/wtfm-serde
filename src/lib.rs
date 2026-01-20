@@ -1,7 +1,7 @@
 #![doc(html_playground_url = "https://play.rust-lang.org/")]
 //! # WTFM for [serde]
 //! 
-//! Although this is an empty crate without doc-tests only, `cargo doc`
+//! Although this is an empty crate with doc-tests only, `cargo doc`
 //! by default builds documentation for dependencies
 //!
 //! ```sh
